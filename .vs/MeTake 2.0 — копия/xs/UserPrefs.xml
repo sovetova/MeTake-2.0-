@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{744399B6-D51E-7582-C9FA-60251B668993}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="128" Column="20" />
+      <File FileName="Assets/GameManager.cs" Line="13" Column="27" />
+      <File FileName="Assets/Scripts/RoadGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RoadBlock.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MeTake 2.0 — копия" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Prefabs" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="db265bd4-c689-41de-a915-029368e28407" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

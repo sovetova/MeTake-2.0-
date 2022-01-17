@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2D26BC6A-7CAD-4F77-5CE9-FFB7E30084B8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RoadGenerator.cs">
+    <Files>
+      <File FileName="Assets/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/CameraMovement.cs" />
+      <File FileName="Assets/RoadGenerator.cs" Line="37" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MeTake 2.0" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PlayerController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="62832df7-8fc4-4d6d-926e-2a2c372ee457" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
